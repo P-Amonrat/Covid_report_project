@@ -1,0 +1,111 @@
+body {
+    background-image: url(covid-bg.jpeg);
+    background-size: cover;
+    font-family: 'Athiti', sans-serif;
+}
+
+.all-btn {
+    margin: 0px 50px 50px 100px;
+}
+
+.current-date {
+    margin-left: 120px;
+    background: linear-gradient(180deg, #fdf4a6 0%, #c9b35c 100%);
+    width: 150px;
+    height: 60px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.mt-5 {
+    padding: 20px ;
+}
+
+h1.header {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 60px;
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+}
+
+p.update {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+button.btn.btn-secondary.btn-lg {
+    background: linear-gradient(180deg, #ffd0fb 0%, #c392c0 100%);
+    color: black;
+}
+
+.row.row-cols-1.row-cols-md-2.g-4 {
+    margin: 0px 50px 50px 170px;
+}
+
+.col {
+    width: 350px;
+}
+
+.card-new-covid {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #ff7a7a 0%, #b94141 100%);
+    width: 320px;
+    height: 120px;
+}
+
+.card-all-new-covid {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #ff7272 0%, #a85454 100%);
+    width: 320px;
+    height: 120px;
+}
+
+.card-non-broad {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #ffbb4d 0%, #ff824d 100%);
+    width: 320px;
+    height: 150px;
+}
+
+.card-all-non-broad {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #EB9714 0%, #FF814B 100%);
+    width: 320px;
+    height: 150px;
+}
+
+.card-new-cover {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #a8ffde 0%, #538c74 100%);
+    width: 300px;
+    height: 120px;
+}
+
+.card-all-new-cover {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #6aa783 0%, #3d5c50 100%);
+    width: 320px;
+    height: 120px;
+}
+
+.card-new-death {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #8292fa 0%, #3a5398 100%);
+    width: 330px;
+    height: 120px;
+}
+
+.card-all-new-death {
+    border-radius: 20px;
+    background: linear-gradient(180deg, #ae70fa 0%, #6821ca 100%);
+    width: 320px;
+    height: 120px;
+}
+
+.card-body {
+    text-align: center;
+    height: 120px;
+}
