@@ -11,14 +11,17 @@ body {
 .current-date {
     margin-left: 120px;
     background: linear-gradient(180deg, #fdf4a6 0%, #c9b35c 100%);
-    width: 150px;
+    width: 200px;
     height: 60px;
     margin-bottom: 30px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.mt-5 {
-    padding: 20px ;
+p#today-date {
+    margin: 0;
 }
 
 h1.header {
